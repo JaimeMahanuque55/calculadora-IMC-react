@@ -11,4 +11,3 @@ Projeto desenvolvido durante o curso [B7web](https://b7web.com.br).
 ### Para rodar
 
 -`npm run dev`
-"# calculadora-IMC-react" 
